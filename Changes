@@ -1,0 +1,16 @@
+Revision history for Perl extension Palm::PalmDoc.
+
+0.01  Mon Oct  8 13:59:50 2001
+	- original version; based enormously on Bibelot
+
+0.02  Mon Oct  8 16:00:00 2001
+	- added filename filtering
+	- getters and setters
+	
+0.03  Tue Oct  9 16:00:00 2001
+	- Added some constructor filtering
+	- Cleaned up some code
+	- Added some POD
+	
+0.04  Wed Oct 10 9:00:00 2001
+	- Added compression
